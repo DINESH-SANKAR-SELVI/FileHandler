@@ -1,0 +1,17 @@
+com\DINESH\FileHandler\configuration\FeignConfiguration.class
+com\DINESH\FileHandler\restclient\SampleServiceClient.class
+com\DINESH\FileHandler\services\CommonService.class
+com\DINESH\FileHandler\services\serviceimplements\TemplateServiceImplement.class
+com\DINESH\FileHandler\controllers\CommonController.class
+com\DINESH\FileHandler\controllers\ExportController.class
+com\DINESH\FileHandler\services\ExportService.class
+com\DINESH\FileHandler\FileHandlerApplication.class
+com\DINESH\FileHandler\services\serviceimplements\ExportServiceImplement.class
+com\DINESH\FileHandler\services\serviceimplements\ImportServiceImplement.class
+com\DINESH\FileHandler\configuration\SwaggerConfig.class
+com\DINESH\FileHandler\controllers\ImportController.class
+com\DINESH\FileHandler\configuration\ApplicationConfig.class
+com\DINESH\FileHandler\services\ImportService.class
+com\DINESH\FileHandler\services\serviceimplements\CommonServiceImplement.class
+com\DINESH\FileHandler\services\TemplateService.class
+com\DINESH\FileHandler\controllers\TemplateController.class
